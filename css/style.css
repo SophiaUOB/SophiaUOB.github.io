@@ -1,0 +1,54 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px
+}
+
+.profile-title {
+color: #00b386;
+font-size: 35px;
+}
+
+.profile-pic {
+	max-width: 100%
+}
+.profile-subtitle {
+	color: #00b386;
+}
+
+.information {
+	font-size: 20px;
+
+}
+
+.waysto {
+	font-size: 25px
+	color:#00b386;
+}
+
+.email {
+	font-size: 18px;
+
+}
+
+.volunteering-progress {
+	background-color:  #00b386;
+}
+
+.Meet {
+	color:#00b386; ;
+}
+
+.my-nav {
+	background-color: #008060;
+}
+
+.my-nav a {
+	color: black;
+
+}
+
+.my-nav a:hover {
+	color:white;
+}
+
+
